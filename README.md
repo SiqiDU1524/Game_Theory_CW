@@ -1,6 +1,4 @@
-# Game_Theory_CW
-
-A hand strength model is constructed in Python to simulate players’ assessments of their hand strength before engaging in betting. Players can form a macro-level understanding of their hand’s likelihood of winning.
+# Game_Theory_CW 
 
 In Texas Hold'em poker, card rankings are ordered in ascending strength as follows: '2', '3', '4', '5', '6', '7', '8', '9', 'T' (Ten), 'J' (Jack), 'Q' (Queen), 'K' (King), and 'A' (Ace), with '2' being the weakest and 'Ace' the strongest. The suits—hearts ('h'), diamonds ('d'), clubs ('c'), and spades ('s')—are considered of equal value and do not influence card strength.
 
